@@ -1,4 +1,6 @@
-ingress-logos
+Ingress Logos
 =============
 
-Logos in SVG format for Ingress, an alternate reality game by NianticLabs@Google.
+This repository is simply a place for me to share the vector images that I've made based on Google's alternate reality game, __Ingress__.
+
+These logos are probably copyrighted by Google, and are shared here for promotional purposes only.
