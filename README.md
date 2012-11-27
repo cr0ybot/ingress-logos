@@ -16,3 +16,6 @@ Or just grab the logos here:
 
 # Enlightened
 ![Enlightened](http://cr0ybot.github.com/ingress-logos/ingress_enlightened.svg)
+
+# Resistance
+![Resistance](http://cr0ybot.github.com/ingress-logos/ingress_resistance.svg)
