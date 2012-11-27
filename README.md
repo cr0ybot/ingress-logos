@@ -14,8 +14,14 @@ Or just grab the logos here:
 # Ingress
 ![Ingress](http://cr0ybot.github.com/ingress-logos/ingress.svg)
 
+[SVG](http://cr0ybot.github.com/ingress-logos/ingress.svg) | [PNG](http://cr0ybot.github.com/ingress-logos/ingress_hires.png)
+
 # Enlightened
 ![Enlightened](http://cr0ybot.github.com/ingress-logos/ingress_enlightened.svg)
 
+[SVG](http://cr0ybot.github.com/ingress-logos/ingress_enlightened.svg) | [PNG](http://cr0ybot.github.com/ingress-logos/ingress_enlightened_hires.png)
+
 # Resistance
 ![Resistance](http://cr0ybot.github.com/ingress-logos/ingress_resistance.svg)
+
+[SVG](http://cr0ybot.github.com/ingress-logos/ingress_resistance.svg) | [PNG](http://cr0ybot.github.com/ingress-logos/ingress_resistance_hires.png)
