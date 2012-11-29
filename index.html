@@ -31,6 +31,16 @@
 
   </head>
   <body>
+  
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=502358973129940";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	
       <div id="header">
         <nav>
           <li class="fork"><a href="https://github.com/cr0ybot/ingress-logos">View On GitHub</a></li>
@@ -47,7 +57,13 @@
           <div style="text-align:center;"><img itemprop="image" src="ingress_logos_thumb.png" alt="Ingress Logos" width="256" height="205" /></div>
 		  <h1 itemprop="name" class="ingress">Ingress Logos</h1>
           <p>Logos in SVG, PNG, AI, and PSD format for <a href="http://www.ingress.com" target="_blank">Ingress</a>, an alternate reality game by <a href="https://play.google.com/store/apps/developer?id=NianticLabs@Google" target="_blank">NianticLabs@Google</a>.</p>
-		  <div class="g-plusone" data-annotation="inline" data-href="http://cr0ybot.github.com/ingress-logos/"></div>
+		  <div style="float:left;">
+		    <div class="g-plusone" data-annotation="inline" data-href="http://cr0ybot.github.com/ingress-logos/"></div>
+		  </div>
+		  <div style="float:left;">
+			<div class="fb-like" data-href="http://cr0ybot.github.com/ingress-logos/" data-send="false" data-width="450" data-show-faces="false"></div>
+		  </div>
+		  <div style="clear:both;"></div>
           <hr>
           <span class="credits left">Project maintained by <a href="https://github.com/cr0ybot">cr0ybot</a> AKA <a href="https://plus.google.com/117821533314944280802?rel=author">Cory Hughart</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></span>
