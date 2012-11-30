@@ -5,6 +5,7 @@ Unofficial vector images of various logos and symbols from Google's alternate re
 
 __DISCLAIMER:__ I am in no way associated with Google Inc or NianticLabs@Google. These logos are copyrighted and possibly trademarked by Google, and are shared here for promotional purposes only; no copyright infringement is intended. Please be advised that attempting to use these images for a profit is illegal, even though they are not produced directly by Google. Also note that I will promptly honor any official request by Google to take these images down.
 
+![Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 Please refer to LICENSE.txt to view the terms of use.
 
 _Now complete with .svg, .png, .ai, and .psd files!_
