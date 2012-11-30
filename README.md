@@ -11,7 +11,7 @@ Please refer to LICENSE.txt to view the terms of use.
 
 _Now complete with .svg, .png, .ai, and .psd files!_
 
-__NEW:__ ZIP archives of each symbol added! Get all files for a particular symbol at once!!
+__NEW:__ ZIP archives of each symbol added! Get all files for a particular symbol at once!
 
 * * *
 
