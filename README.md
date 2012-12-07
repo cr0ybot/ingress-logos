@@ -11,8 +11,6 @@ Please refer to LICENSE.txt to view the terms of use.
 
 _Now complete with .svg, .png, .ai, and .psd files!_
 
-__NEW:__ ZIP archives of each symbol added! Get all files for a particular symbol at once!
-
 * * *
 
 View the fancy GitHub page at: http://cr0ybot.github.com/ingress-logos/
