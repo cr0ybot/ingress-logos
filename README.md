@@ -9,7 +9,7 @@ __DISCLAIMER:__ I am in no way associated with Google Inc or NianticLabs@Google.
 
 Please refer to LICENSE.txt to view the terms of use.
 
-*NEW:* Alternate Google+ icons with the Ingress symbol integrated, just for fun.
+_Now complete with .svg, .png, .ai, and .psd files!_
 
 * * *
 
