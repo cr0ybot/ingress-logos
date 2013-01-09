@@ -5,9 +5,9 @@ Unofficial vector images of various logos and symbols from Google's alternate re
 
 __DISCLAIMER:__ I am in no way associated with Google Inc or NianticLabs@Google. These logos are copyrighted and possibly trademarked by Google, and are shared here for promotional purposes only; no copyright infringement is intended. Please be advised that attempting to use these images for a profit is illegal, even though they are not produced directly by Google. Also note that I will promptly honor any official request by Google to take these images down.
 
-Please see the ![official word from Google](http://support.google.com/ingress/answer/2924461) about using these images, reproduced here for your convenience:
+Please see the [official word from Google](http://support.google.com/ingress/answer/2924461) about using these images, reproduced here for your convenience:
 
-> Please don’t sell any merchandise featuring our trademarks, game images, or logos, or modified versions of our trademarks and logos (either directly or through third party websites like CafePress or Zazzle).
+> Please don't sell any merchandise featuring our trademarks, game images, or logos, or modified versions of our trademarks and logos (either directly or through third party websites like CafePress or Zazzle).
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
