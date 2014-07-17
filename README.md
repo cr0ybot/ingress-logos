@@ -22,30 +22,30 @@ View the fancy GitHub page at: http://ra100.github.com/ingress-logos/
 Or just grab the logos here:
 
 # Helios Anomaly logo
-![Helios](http://ra100.github.com/ingress-logos/helios.svg)
-[SVG](http://ra100.github.com/ingress-logos/helios.svg) | [PNG](http://ra100.github.com/ingress-logos/helios.png)
+![Helios](http://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.svg)
+[SVG](http://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.svg) | [PNG](http://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.png)
 
 # Ingress Logo
-![Ingress](http://ra100.github.com/ingress-logos/ingress.svg)
+![Ingress](http://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.svg)
 
-[SVG](http://ra100.github.com/ingress-logos/ingress.svg) | [AI](http://ra100.github.com/ingress-logos/ingress.ai) | [PNG](http://ra100.github.com/ingress-logos/ingress.png) | [PSD](http://ra100.github.com/ingress-logos/ingress.psd) | [favicon](http://ra100.github.com/ingress-logos/favicon.ico) | [Original from Google](http://ra100.github.com/ingress-logos/ingress_original.png) | [ZIP](http://ra100.github.com/ingress-logos/ingress_logos.zip)
+[SVG](http://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.svg) | [AI](http://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.ai) | [PNG](http://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.png) | [PSD](http://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.psd) | [favicon](http://ra100.github.com/ingress-logos/favicon.ico) | [Original from Google](http://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress_original.png) | [ZIP](http://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress_logos.zip)
 
 # Enlightened Faction Symbol
-![Enlightened](http://ra100.github.com/ingress-logos/enlightened.svg)
+![Enlightened](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.svg)
 
-[SVG](http://ra100.github.com/ingress-logos/enlightened.svg) | [AI](http://ra100.github.com/ingress-logos/enlightened.ai) | [PNG](http://ra100.github.com/ingress-logos/enlightened.png) | [PNG (glowing)](http://ra100.github.com/ingress-logos/enlightened_glow.png) | [PSD](http://ra100.github.com/ingress-logos/enlightened.psd) | [Original from Google](http://ra100.github.com/ingress-logos/enl.png) | [ZIP](http://ra100.github.com/ingress-logos/enlightened_faction_symbol.zip)
+[SVG](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.svg) | [AI](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.ai) | [PNG](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.png) | [PNG (glowing)](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened_glow.png) | [PSD](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.psd) | [Original from Google](http://ra100.github.com/ingress-logos/enl.png) | [ZIP](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened_faction_symbol.zip)
 
 # Alternate Enlightened Faction Symbol
-![Enlightened Alternate](http://ra100.github.com/ingress-logos/enlightened_alt.svg)
+![Enlightened Alternate](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.svg)
 
-[SVG](http://ra100.github.com/ingress-logos/enlightened_alt.svg) | [AI](http://ra100.github.com/ingress-logos/enlightened_alt.ai) | [PNG](http://ra100.github.com/ingress-logos/enlightened_alt.png) | [PNG (embossed)](http://ra100.github.com/ingress-logos/enlightened_alt_embossed.png) | [PSD](http://ra100.github.com/ingress-logos/enlightened_alt.psd) | [ZIP](http://ra100.github.com/ingress-logos/enlightened_faction_alt_symbol.zip)
+[SVG](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.svg) | [AI](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.ai) | [PNG](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.png) | [PNG (embossed)](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt_embossed.png) | [PSD](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.psd) | [ZIP](http://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened_faction_alt_symbol.zip)
 
 # Resistance Faction Symbol
-![Resistance](http://ra100.github.com/ingress-logos/resistance.svg)
+![Resistance](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance/resistance.svg)
 
-[SVG](http://ra100.github.com/ingress-logos/resistance.svg) | [AI](http://ra100.github.com/ingress-logos/resistance.ai) | [PNG](http://ra100.github.com/ingress-logos/resistance.png) | [PNG (glowing)](http://ra100.github.com/ingress-logos/resistance_glow.png) | [PSD](http://ra100.github.com/ingress-logos/resistance.psd) | [Original from Google](http://ra100.github.com/ingress-logos/res.png) | [ZIP](http://ra100.github.com/ingress-logos/resistance_faction_symbol.zip)
+[SVG](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance/resistance.svg) | [AI](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance/resistance.ai) | [PNG](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance/resistance.png) | [PNG (glowing)](http://ra100.github.com/ingress-logos/resistance_glow.png) | [PSD](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance/resistance.psd) | [Original from Google](http://ra100.github.com/ingress-logos/res.png) | [ZIP](http://ra100.github.com/ingress-logos/resistance_faction_symbol.zip)
 
 # Alternate Resistance Faction Symbol
-![Resistance Alternate](http://ra100.github.com/ingress-logos/resistance_alt.svg)
+![Resistance Alternate](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.svg)
 
-[SVG](http://ra100.github.com/ingress-logos/resistance_alt.svg) | [AI](http://ra100.github.com/ingress-logos/resistance_alt.ai) | [PNG](http://ra100.github.com/ingress-logos/resistance_alt.png) | [PNG (embossed)](http://ra100.github.com/ingress-logos/resistance_alt_embossed.png) | [PSD](http://ra100.github.com/ingress-logos/resistance_alt.psd) | [ZIP](http://ra100.github.com/ingress-logos/resistance_faction_alt_symbol.zip)
+[SVG](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.svg) | [AI](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.ai) | [PNG](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.png) | [PNG (embossed)](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt_embossed.png) | [PSD](http://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.psd) | [ZIP](http://ra100.github.com/ingress-logos/resistance_faction_alt_symbol.zip)
