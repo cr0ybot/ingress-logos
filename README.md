@@ -42,9 +42,9 @@ Or just grab the logos here:
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.svg) | [AI](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.ai) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.png) | [PNG (embossed)](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt_embossed.png) | [PSD](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.psd)
 
 # Enlightened Hexagon Symbol
-![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightned_hex/enlightned_hex.png)
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hex/enlightened_hex.png)
 
-[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightned_hex/enlightned_hex.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightned_hex/enlightned_hex.png)
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hex/enlightened_hex.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hex/enlightened_hex.png)
 
 # Resistance Faction Symbol
 ![Resistance](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance/resistance.png)
