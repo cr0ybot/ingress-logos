@@ -31,7 +31,7 @@ Or just grab the logos here:
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.svg) | [AI](https://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.ai) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.png) | [PSD](https://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.psd) | [favicon](https://ra100.github.com/ingress-logos/favicon.ico) | [Original from Google](https://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress_original.png) | [ZIP](https://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress_logos.zip)
 
 # Enlightened Faction Symbol
-![Enlightened](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.svg)
+![Enlightened](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.png)
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.svg) | [AI](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.ai) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.png) | [PNG (glowing)](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened_glow.png) | [PSD](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened.psd) | [Original from Google](https://ra100.github.com/ingress-logos/enl.png) | [ZIP](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened/enlightened_faction_symbol.zip)
 
