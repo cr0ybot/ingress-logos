@@ -21,7 +21,7 @@ View the fancy GitHub page at: https://ra100.github.com/ingress-logos/
 
 Or just grab the logos here:
 
-# Helios Anomaly logo
+# Helios Anomaly Symbol
 ![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.png)
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.png)
@@ -40,6 +40,11 @@ Or just grab the logos here:
 ![Enlightened Alternate](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.png)
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.svg) | [AI](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.ai) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.png) | [PNG (embossed)](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt_embossed.png) | [PSD](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.psd)
+
+# Enlightened Hexagon Symbol
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightned_hex/enlightned_hex.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightned_hex/enlightned_hex.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightned_hex/enlightned_hex.png)
 
 # Resistance Faction Symbol
 ![Resistance](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance/resistance.png)
