@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="helios.svg">
+   sodipodi:docname="helios.svg"
+   inkscape:export-filename="/home/ra100/Downloads/sources/ingress-logos/helios/helios.png"
+   inkscape:export-xdpi="377.28482"
+   inkscape:export-ydpi="377.28482">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -52,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
