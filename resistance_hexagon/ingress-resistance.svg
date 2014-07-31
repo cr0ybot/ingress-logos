@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="ingress" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2048 2048" enable-background="new 0 0 2048 2048" xml:space="preserve">
+<g>
+	<polygon fill="#231F20" points="1024,2039.5 144.6,1531.8 144.6,516.3 1024,8.5 1903.4,516.3 1903.4,1531.7 	"/>
+</g>
+<g>
+	<g>
+		<path fill="#3498DD" d="M1024,200.5L310.8,612.2v823.5l713.2,411.8l713.2-411.8V612.2L1024,200.5z M1637.2,1378L1024,1732
+			l-613.2-354V670L1024,316l613.2,354V1378z"/>
+	</g>
+</g>
+<path fill="#3498DD" d="M1542.4,724.7h-469.2V525.1h-100v199.6H505.6L738.4,1128l-172.8,99.8l50,86.6l172.8-99.8l235.6,408
+	l235.7-408.2l173.2,100l50-86.6l-173.2-100L1542.4,724.7z M978,1359L710.9,896.3L978,1050.6V1359z M756.9,816.7h534.2L1024,970.9
+	L756.9,816.7z M1070,1050.6l267.1-154.2L1070,1359V1050.6z"/>
+</svg>
