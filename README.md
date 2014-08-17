@@ -18,7 +18,7 @@ _Now complete with .svg, .png, .ai, and .psd files!_
 Ingress Logo Font
 -----------------
 
-The "INGRESS" logo typeface appears to be based on [AmarilloUSAF by Tom C. Lai](http://www.tlai.com/med_des/amusaf.html) (Shareware). Thanks to @marijnvdwerf for pointing this out.
+The "INGRESS" logo typeface appears to be based on [AmarilloUSAF by Tom C. Lai](http://www.tlai.com/med_des/amusaf.html) (Shareware). Thanks to [@marijnvdwerf](https://github.com/marijnvdwerf) for pointing this out.
 
 * * *
 
