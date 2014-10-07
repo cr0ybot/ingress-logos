@@ -21,6 +21,11 @@ View the fancy GitHub page at: https://ra100.github.com/ingress-logos/
 
 Or just grab the logos here:
 
+# Darsana Anomaly Symbol
+![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/darsana/darsana.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/darsana/darsana.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/darsana/darsana.png)
+
 # Helios Anomaly Symbol
 ![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.png)
 
