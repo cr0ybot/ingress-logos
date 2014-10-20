@@ -31,6 +31,16 @@ Or just grab the logos here:
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.png)
 
+# Interitus Anomaly Symbol
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/interitus/interitus.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/interitus/interitus.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/interitus/interitus.png)
+
+# Recursion Anomaly Symbol
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/recursion/recursion.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/recursion/recursion.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/recursion/recursion.png)
+
 # Ingress Logo
 ![Ingress](https://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.png)
 
