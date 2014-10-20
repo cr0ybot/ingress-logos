@@ -17,6 +17,11 @@ enlightened, enlightened\_alt, resistance, resistance\_alt and ingress logos are
 
 _.svg and .png files_
 
+Ingress Logo Font
+-----------------
+
+The "INGRESS" logo typeface appears to be based on [AmarilloUSAF by Tom C. Lai](http://www.tlai.com/med_des/amusaf.html) (Shareware). Thanks to [@marijnvdwerf](https://github.com/marijnvdwerf) for pointing this out.
+
 * * *
 
 View the fancy GitHub page at: https://github.com/ra100/ingress-logos
