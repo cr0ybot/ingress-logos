@@ -13,7 +13,9 @@ Please see the [official word from Google](https://support.google.com/ingress/an
 
 Please refer to LICENSE.txt to view the terms of use.
 
-_Now complete with .svg, .png, .ai, and .psd files!_
+enlightened, enlightened\_alt, resistance, resistance\_alt and ingress logos are by cr0ybot https://github.com/cr0ybot/ingress-logos
+
+_.svg and .png files_
 
 * * *
 
