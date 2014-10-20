@@ -64,9 +64,9 @@ Or just grab the logos here:
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.svg) | [AI](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.ai) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.png) | [PNG (embossed)](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt_embossed.png) | [PSD](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_alt/enlightened_alt.psd)
 
 # Enlightened Hexagon Symbol
-![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hex/enlightened_hex.png)
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hexagon/ingress-enlightened.png)
 
-[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hex/enlightened_hex.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hex/enlightened_hex.png)
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hexagon/ingress-enlightened.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/enlightened_hexagon/ingress-enlightened.png)
 
 # Resistance Faction Symbol
 ![Resistance](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance/resistance.png)
@@ -77,3 +77,8 @@ Or just grab the logos here:
 ![Resistance Alternate](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.png)
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.svg) | [AI](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.ai) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.png) | [PNG (embossed)](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt_embossed.png) | [PSD](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_alt/resistance_alt.psd)
+
+# Resistance Hexagon Symbol
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_hexagon/ingress-resistance.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_hexagon/ingress-resistance.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_hexagon/ingress-resistance.png)
