@@ -19,7 +19,7 @@ _.svg and .png files_
 
 * * *
 
-View the fancy GitHub page at: https://ra100.github.com/ingress-logos/
+View the fancy GitHub page at: https://github.com/ra100/ingress-logos
 
 Or just grab the logos here:
 
