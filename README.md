@@ -87,6 +87,7 @@ Or just grab the logos here:
 
 # Badges
 (by DabelCODY)
+[sources](https://github.com/ra100/ingress-logos/tree/master/badges)
 
 ![Builder](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/builder.png)
 ![Connector](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/connector.png)
