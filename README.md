@@ -28,6 +28,13 @@ View the fancy GitHub page at: https://github.com/ra100/ingress-logos
 
 Or just grab the logos here:
 
+# Badges
+(by DabelCODY)
+
+[sources](https://github.com/ra100/ingress-logos/tree/master/badges)
+
+![Badges preview](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/preview.jpg)
+
 # Darsana Anomaly Symbol
 ![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/darsana/darsana.png)
 
@@ -82,24 +89,6 @@ Or just grab the logos here:
 ![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_hexagon/ingress-resistance.png)
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_hexagon/ingress-resistance.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/resistance_hexagon/ingress-resistance.png)
-
-
-
-# Badges
-(by DabelCODY)
-[sources](https://github.com/ra100/ingress-logos/tree/master/badges)
-
-![Builder](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/builder.png)
-![Connector](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/connector.png)
-![Explorer](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/explorer.png)
-![Guardian](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/guardian.png)
-![Hacker](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/hacker.png)
-![Mind Controller](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/mind_control.png)
-![Purifier](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/purifier.png)
-![Seer](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/seer.png)
-
-(by ra100)
-![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/helios.png)
 
 # Related
 ![Phoenix](https://raw.githubusercontent.com/ra100/ingress-logos/master/related/phoenix.png)
