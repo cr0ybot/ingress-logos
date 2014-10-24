@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="156mm" height="180mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 15942 18394"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#49200B}
+    .fil2 {fill:#CEB6FF}
+    .fil1 {fill:#DB9775}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="7971,511 11735,2682 15499,4854 15499,9197 15499,13540 11735,15712 7971,17883 4207,15712 443,13540 443,9197 443,4854 4207,2682 "/>
+  <path class="fil1" d="M7971 0l7971 4599 0 9197 -7971 4598 -7971 -4598 0 -9197 7971 -4599zm0 511l7528 4343 0 8686 -7528 4343 -7528 -4343 0 -8686 7528 -4343z"/>
+  <polygon class="fil2" points="11233,8036 11648,8690 11656,9477 11808,9473 12614,7528 11224,4172 7869,2783 4513,4172 3123,7528 3768,9084 4154,8691 4779,8700 4294,7528 5341,5000 7869,3953 10397,5000 11444,7528 "/>
+  <polygon class="fil2" points="8792,7439 9204,7744 9421,7728 9495,7535 9018,6385 7869,5909 6719,6385 6243,7535 6357,7812 7254,7818 7623,7426 "/>
+  <polygon class="fil1" points="7967,16622 5601,15264 7156,15264 7981,15852 10482,14446 10482,15142 "/>
+  <polygon class="fil1" points="5230,11404 4452,11421 4206,11289 4206,9525 4429,9393 4919,9393 5216,9525 "/>
+  <polygon class="fil1" points="6889,8798 6893,11168 6673,11394 6065,11394 5835,11276 5835,9126 5994,8798 "/>
+  <polygon class="fil1" points="7663,8548 7825,8386 8758,8386 8873,8525 8873,9461 7991,9576 7991,10836 8221,11026 8217,11286 7663,11286 "/>
+  <polygon class="fil1" points="9627,9417 10857,9417 10857,8704 10620,8406 9853,8406 9620,8660 "/>
+  <polygon class="fil1" points="4250,13650 4016,12918 4016,12844 4348,12528 6000,12530 6862,13479 7467,12766 9137,11860 10083,11881 10225,11563 8866,10782 8819,10157 11739,10157 11739,12523 7994,14889 7075,14176 6403,14399 5125,14399 "/>
+ </g>
+</svg>
