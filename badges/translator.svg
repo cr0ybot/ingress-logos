@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="539px" height="622px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 169 195"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#49200B}
+    .fil3 {fill:#5CF6E6}
+    .fil1 {fill:#8090B8}
+    .fil2 {fill:#DB9775}
+    .fil4 {fill:#E29F38}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="84,5 124,28 164,51 164,97 164,143 124,166 84,189 45,166 5,143 5,97 5,51 45,28 "/>
+  <path class="fil1" d="M84 24l63 37 0 73 -63 36 -63 -36 0 -73 63 -37zm0 8l57 33 0 65 -57 33 -57 -33 0 -65 57 -33z"/>
+  <path class="fil2" d="M84 0l85 49 0 97 -85 49 -84 -49 0 -97 84 -49zm0 5l80 46 0 92 -80 46 -79 -46 0 -92 79 -46z"/>
+  <circle class="fil2" cx="84" cy="166" r="10"/>
+  <circle class="fil2" transform="matrix(0.137693 -0.1991 0.1991 0.137693 27.2665 57.8296)" r="40"/>
+  <circle class="fil2" transform="matrix(-0.137693 0.1991 -0.1991 -0.137693 140.658 136.782)" r="40"/>
+  <circle class="fil2" transform="matrix(-0.137496 -0.199236 0.199236 -0.137496 26.9782 136.365)" r="40"/>
+  <circle class="fil2" transform="matrix(0.137496 0.199236 -0.199236 0.137496 140.947 58.2469)" r="40"/>
+  <circle class="fil3" transform="matrix(-0.137693 0.1991 -0.1991 -0.137693 84.3317 97.3057)" r="40"/>
+  <g id="_528239478352">
+   <circle class="fil4" cx="55" cy="78" r="10"/>
+   <circle class="fil4" transform="matrix(-0.097646 0.221507 -0.221507 -0.097646 113.279 77.7974)" r="40"/>
+   <circle class="fil4" cx="55" cy="117" r="10"/>
+   <circle class="fil4" transform="matrix(-0.097646 0.221507 -0.221507 -0.097646 113.279 116.509)" r="40"/>
+  </g>
+  <circle class="fil2" cx="84" cy="29" r="10"/>
+ </g>
+</svg>
