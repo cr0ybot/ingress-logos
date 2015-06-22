@@ -35,25 +35,30 @@ Or just grab the logos here:
 
 ![Badges preview](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/preview.jpg)
 
-# Darsana Anomaly Symbol
-![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/darsana/darsana.png)
+# Shonin Anomaly Symbol
+![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png)
 
-[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/darsana/darsana.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/darsana/darsana.png)
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png)
+
+# Darsana Anomaly Symbol
+![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/darsana.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/darsana.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/darsana.png)
 
 # Helios Anomaly Symbol
-![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.png)
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/helios.png)
 
-[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/helios/helios.png)
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/helios.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/helios.png)
 
 # Interitus Anomaly Symbol
-![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/interitus/interitus.png)
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/interitus.png)
 
-[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/interitus/interitus.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/interitus/interitus.png)
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/interitus.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/interitus.png)
 
 # Recursion Anomaly Symbol
-![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/recursion/recursion.png)
+![Helios](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/recursion.png)
 
-[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/recursion/recursion.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/recursion/recursion.png)
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/recursion.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/recursion.png)
 
 # Ingress Logo
 ![Ingress](https://raw.githubusercontent.com/ra100/ingress-logos/master/ingress_logo/ingress.png)
