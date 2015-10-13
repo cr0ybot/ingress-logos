@@ -35,6 +35,11 @@ Or just grab the logos here:
 
 ![Badges preview](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/preview.jpg)
 
+# Abaddon Anomaly Symbol
+![Abaddon](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddon.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddo.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddo.png) | [EPS](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddo.eps)
+
 # Shonin Anomaly Symbol
 ![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png)
 
