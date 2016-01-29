@@ -1,0 +1,109 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: cairo 1.14.2 (http://cairographics.org)
+%%CreationDate: Fri Jan 29 16:49:14 2016
+%%Pages: 1
+%%DocumentData: Clean7Bit
+%%LanguageLevel: 2
+%%BoundingBox: 0 -1 443 511
+%%EndComments
+%%BeginProlog
+save
+50 dict begin
+/q { gsave } bind def
+/Q { grestore } bind def
+/cm { 6 array astore concat } bind def
+/w { setlinewidth } bind def
+/J { setlinecap } bind def
+/j { setlinejoin } bind def
+/M { setmiterlimit } bind def
+/d { setdash } bind def
+/m { moveto } bind def
+/l { lineto } bind def
+/c { curveto } bind def
+/h { closepath } bind def
+/re { exch dup neg 3 1 roll 5 3 roll moveto 0 rlineto
+      0 exch rlineto 0 rlineto closepath } bind def
+/S { stroke } bind def
+/f { fill } bind def
+/f* { eofill } bind def
+/n { newpath } bind def
+/W { clip } bind def
+/W* { eoclip } bind def
+/BT { } bind def
+/ET { } bind def
+/pdfmark where { pop globaldict /?pdfmark /exec load put }
+    { globaldict begin /?pdfmark /pop load def /pdfmark
+    /cleartomark load def end } ifelse
+/BDC { mark 3 1 roll /BDC pdfmark } bind def
+/EMC { mark /EMC pdfmark } bind def
+/cairo_store_point { /cairo_point_y exch def /cairo_point_x exch def } def
+/Tj { show currentpoint cairo_store_point } bind def
+/TJ {
+  {
+    dup
+    type /stringtype eq
+    { show } { -0.001 mul 0 cairo_font_matrix dtransform rmoveto } ifelse
+  } forall
+  currentpoint cairo_store_point
+} bind def
+/cairo_selectfont { cairo_font_matrix aload pop pop pop 0 0 6 array astore
+    cairo_font exch selectfont cairo_point_x cairo_point_y moveto } bind def
+/Tf { pop /cairo_font exch def /cairo_font_matrix where
+      { pop cairo_selectfont } if } bind def
+/Td { matrix translate cairo_font_matrix matrix concatmatrix dup
+      /cairo_font_matrix exch def dup 4 get exch 5 get cairo_store_point
+      /cairo_font where { pop cairo_selectfont } if } bind def
+/Tm { 2 copy 8 2 roll 6 array astore /cairo_font_matrix exch def
+      cairo_store_point /cairo_font where { pop cairo_selectfont } if } bind def
+/g { setgray } bind def
+/rg { setrgbcolor } bind def
+/d1 { setcachedevice } bind def
+%%EndProlog
+%%BeginSetup
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+%%PageBoundingBox: 0 -1 443 511
+%%EndPageSetup
+q 0 -1 443 512 rectclip q
+0.286275 0.12549 0.0431373 rg
+221.102 496.043 m 325.508 435.825 l 429.918 375.579 l 429.918 134.641 l
+ 325.508 74.395 l 221.102 14.176 l 116.695 74.395 l 12.289 134.641 l 12.289
+ 375.579 l 116.695 435.825 l h
+221.102 496.043 m f*
+0.858824 0.592157 0.458824 rg
+221.102 510.219 m 442.203 382.649 l 442.203 127.539 l 221.102 0 l 0 127.539
+ l 0 382.649 l h
+221.102 496.043 m 429.918 375.579 l 429.918 134.641 l 221.102 14.176 l 
+12.289 134.641 l 12.289 375.579 l h
+221.102 496.043 m f*
+0.270588 0.92549 0.858824 rg
+234.027 339.543 m 247.648 339.543 258.688 328.504 258.688 314.887 c 258.688
+ 301.239 247.648 290.2 234.027 290.2 c 223.211 290.2 214 297.161 210.672
+ 306.84 c 198.164 306.84 l 162.684 238.465 l 140.41 238.465 l 137 228.926
+ 127.875 222.102 117.168 222.102 c 103.547 222.102 92.508 233.141 92.508
+ 246.789 c 92.508 260.407 103.547 271.446 117.168 271.446 c 127.875 271.446
+ 137 264.625 140.41 255.11 c 153.031 255.11 l 188.512 323.512 l 210.895 
+323.512 l 214.391 332.887 223.434 339.543 234.027 339.543 c h
+234.027 339.543 m f*
+0.858824 0.592157 0.458824 rg
+76.531 123.684 m 209.453 256.606 l 226.152 239.911 l 93.23 106.989 l h
+76.531 123.684 m f*
+201.324 93.395 m 397.906 289.977 l 401.734 260.434 l 218.023 76.696 l h
+201.324 93.395 m f*
+38.277 254.11 m 220.547 436.379 l 251.254 433.715 l 54.977 237.411 l h
+38.277 254.11 m f*
+144.961 178.469 m 256.051 67.375 l 226.762 63.27 l 128.289 161.77 l h
+144.961 178.469 m f*
+90.816 389.805 m 165.043 315.747 l 154.227 294.137 l 74.449 374.106 l h
+202.52 278.356 m 355.051 126.153 l 338.656 109.176 l 192.754 255.497 l 
+h
+202.52 278.356 m f*
+200.605 436.27 m 401.348 235.887 l 397.434 206.403 l 171.785 432.442 l 
+h
+200.605 436.27 m f*
+Q Q
+showpage
+%%Trailer
+end restore
+%%EOF

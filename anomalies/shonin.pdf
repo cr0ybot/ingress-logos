@@ -1,0 +1,140 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: cairo 1.14.2 (http://cairographics.org)
+%%CreationDate: Fri Jan 29 16:49:05 2016
+%%Pages: 1
+%%DocumentData: Clean7Bit
+%%LanguageLevel: 2
+%%BoundingBox: 0 -1 275 368
+%%EndComments
+%%BeginProlog
+save
+50 dict begin
+/q { gsave } bind def
+/Q { grestore } bind def
+/cm { 6 array astore concat } bind def
+/w { setlinewidth } bind def
+/J { setlinecap } bind def
+/j { setlinejoin } bind def
+/M { setmiterlimit } bind def
+/d { setdash } bind def
+/m { moveto } bind def
+/l { lineto } bind def
+/c { curveto } bind def
+/h { closepath } bind def
+/re { exch dup neg 3 1 roll 5 3 roll moveto 0 rlineto
+      0 exch rlineto 0 rlineto closepath } bind def
+/S { stroke } bind def
+/f { fill } bind def
+/f* { eofill } bind def
+/n { newpath } bind def
+/W { clip } bind def
+/W* { eoclip } bind def
+/BT { } bind def
+/ET { } bind def
+/pdfmark where { pop globaldict /?pdfmark /exec load put }
+    { globaldict begin /?pdfmark /pop load def /pdfmark
+    /cleartomark load def end } ifelse
+/BDC { mark 3 1 roll /BDC pdfmark } bind def
+/EMC { mark /EMC pdfmark } bind def
+/cairo_store_point { /cairo_point_y exch def /cairo_point_x exch def } def
+/Tj { show currentpoint cairo_store_point } bind def
+/TJ {
+  {
+    dup
+    type /stringtype eq
+    { show } { -0.001 mul 0 cairo_font_matrix dtransform rmoveto } ifelse
+  } forall
+  currentpoint cairo_store_point
+} bind def
+/cairo_selectfont { cairo_font_matrix aload pop pop pop 0 0 6 array astore
+    cairo_font exch selectfont cairo_point_x cairo_point_y moveto } bind def
+/Tf { pop /cairo_font exch def /cairo_font_matrix where
+      { pop cairo_selectfont } if } bind def
+/Td { matrix translate cairo_font_matrix matrix concatmatrix dup
+      /cairo_font_matrix exch def dup 4 get exch 5 get cairo_store_point
+      /cairo_font where { pop cairo_selectfont } if } bind def
+/Tm { 2 copy 8 2 roll 6 array astore /cairo_font_matrix exch def
+      cairo_store_point /cairo_font where { pop cairo_selectfont } if } bind def
+/g { setgray } bind def
+/rg { setrgbcolor } bind def
+/d1 { setcachedevice } bind def
+%%EndProlog
+%%BeginSetup
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+%%PageBoundingBox: 0 -1 275 368
+%%EndPageSetup
+q 0 -1 275 369 rectclip q
+0.00392157 g
+200.895 93.589 m 247.457 93.589 l 247.457 3.296 l 26.977 3.296 l 26.977
+ 93.589 l 73.512 93.589 l 3.305 134.069 l 3.672 287.456 l 137.594 363.831
+ l 271.129 286.823 l 270.773 133.444 l h
+200.895 93.589 m f
+1 g
+137.586 360.03 m 267.828 284.921 l 267.48 135.362 l 188.453 90.292 l 244.16
+ 90.292 l 244.16 6.596 l 30.273 6.596 l 30.273 90.292 l 85.832 90.292 l 
+6.602 135.971 l 6.965 285.538 l 137.586 360.03 l 137.605 367.632 m 134.32
+ 365.757 l 3.699 291.268 l 0.379 289.374 l 0.371 285.553 l 0.008 135.987
+ l 0 132.167 l 3.309 130.257 l 61.191 96.886 l 23.68 96.886 l 23.68 -0.001
+ l 250.754 -0.001 l 250.754 96.886 l 213.332 96.886 l 270.746 129.632 l 
+274.066 131.526 l 274.074 135.346 l 274.422 284.905 l 274.434 288.725 l 
+271.125 290.636 l 140.883 365.741 l h
+137.605 367.632 m f
+0.00392157 g
+244.16 88.475 m 188.461 88.475 l 267.484 133.546 l 267.832 283.108 l 137.59
+ 358.214 l 6.969 283.721 l 6.605 134.159 l 85.836 88.475 l 30.277 88.475
+ l 30.277 4.78 l 244.16 4.78 l h
+244.16 88.475 m f
+0.823529 0.827451 0.819608 rg
+94.824 225.128 m 75.129 213.698 50.785 195.178 34.086 167.44 c 34.051 151.62
+ l 77.973 126.292 l 73.316 171.542 88.234 210.534 94.824 225.128 c h
+151.895 252.846 m 141.59 270.604 125.527 292.128 102.152 308.428 c 34.336
+ 269.753 l 34.328 266.639 l 87.266 278.553 135.297 260.339 151.895 252.846
+ c h
+92.461 117.936 m 136.941 92.296 l 159.668 105.257 l 121.086 134.284 102.773
+ 175.167 96.852 190.823 c 91.688 171.354 87.875 145.401 92.461 117.936 c
+ h
+117.621 250.803 m 95.707 256.62 65.562 260.733 34.293 253.057 c 34.145 
+190.71 l 63.031 227.44 102.363 245.038 117.621 250.803 c h
+137.211 230.71 m 126.023 230.71 116.953 221.636 116.953 210.444 c 116.953
+ 199.253 126.023 190.186 137.211 190.186 c 148.41 190.186 157.477 199.253
+ 157.477 210.444 c 157.48 221.636 148.41 230.71 137.211 230.71 c h
+122.523 168.042 m 132.836 150.288 148.902 128.749 172.297 112.456 c 240.105
+ 151.128 l 240.113 154.249 l 227.664 151.448 215.48 150.307 203.918 150.307
+ c 166.297 150.311 135.207 162.311 122.523 168.042 c h
+156.824 170.073 m 178.746 164.264 208.875 160.155 240.148 167.827 c 240.293
+ 230.171 l 211.426 193.456 172.113 175.858 156.824 170.073 c h
+196.461 294.596 m 201.117 249.343 186.211 210.358 179.621 195.757 c 199.316
+ 207.19 223.656 225.71 240.344 253.452 c 240.387 269.268 l h
+177.582 230.022 m 182.75 249.499 186.562 275.468 181.965 302.956 c 137.508
+ 328.589 l 114.77 315.624 l 153.359 286.573 171.672 245.671 177.582 230.022
+ c h
+59.551 67.03 m 53.531 61.014 l 53.531 51.936 l 59.551 45.913 l 69.773 45.913
+ l 72.801 42.882 l 72.801 37.948 l 69.773 34.901 l 61.621 34.901 l 58.586
+ 37.944 l 58.586 38.12 l 53.527 38.12 l 53.527 35.878 l 59.551 29.858 l 
+71.836 29.858 l 77.855 35.878 l 77.855 44.944 l 71.836 50.968 l 61.621 50.968
+ l 58.582 54.011 l 58.582 58.94 l 61.621 61.983 l 69.773 61.983 l 72.801
+ 58.94 l 72.801 58.768 l 77.855 58.768 l 77.855 61.014 l 71.836 67.03 l 
+h
+123.812 54.85 m 117.789 48.827 l 117.789 35.874 l 123.812 29.854 l 135.844
+ 29.854 l 142.121 35.878 l 142.121 48.827 l 136.094 54.85 l h
+137.062 37.948 m 134.027 34.901 l 125.875 34.901 l 122.844 37.948 l 122.844
+ 46.757 l 125.875 49.8 l 134.027 49.8 l 137.062 46.757 l h
+183.723 29.854 m 188.777 29.854 l 188.777 67.03 l 183.723 67.03 l h
+104.938 50.968 m 90.711 50.968 l 90.711 67.03 l 85.66 67.03 l 85.66 29.854
+ l 90.711 29.854 l 90.711 45.913 l 104.938 45.913 l 104.938 29.854 l 109.988
+ 29.854 l 109.988 67.03 l 104.938 67.03 l h
+215.852 40.323 m 201.891 66.979 l 196.574 67.026 l 196.574 29.854 l 201.625
+ 29.854 l 201.625 56.499 l 215.586 29.854 l 220.906 29.854 l 220.906 67.03
+ l 215.852 67.03 l h
+170.867 40.323 m 156.914 66.979 l 151.59 67.026 l 151.59 29.854 l 156.641
+ 29.854 l 156.641 56.503 l 170.594 29.854 l 175.918 29.854 l 175.918 67.03
+ l 170.867 67.03 l h
+117.789 61.815 m 142.117 61.815 l 142.117 67.03 l 117.789 67.03 l h
+117.789 61.815 m f
+Q Q
+showpage
+%%Trailer
+end restore
+%%EOF

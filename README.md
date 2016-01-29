@@ -36,14 +36,18 @@ Or just grab the logos here:
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/obsidian.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/obsidian.png) | [EPS](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/obsidian.eps) (by Backtop)
 
+## Persepolis Anomaly Symbol
+![Persepolis](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/persepolis.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/persepolis.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/persepolis.png) | [EPS](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/persepolis.eps) (source [dropbox](https://www.dropbox.com/sh/lboona3bws639ud/AABiY-3RwncDWh-pZJky8yrKa?dl=0))
+
 ## Abaddon Anomaly Symbol
 ![Abaddon](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddon.png)
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddon.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddon.png) | [EPS](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddon.eps) (by ra100)
 
 ## Shonin Anomaly Symbol
-(by DabelCODY)
-![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png)
+(by DabelCODY) ![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png)
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png) | [EPS](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.eps) (by DabelCODY)
 
