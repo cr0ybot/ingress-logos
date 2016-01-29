@@ -46,8 +46,7 @@ Or just grab the logos here:
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddon.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddon.png) | [EPS](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/abaddon.eps) (by ra100)
 
-## Shonin Anomaly Symbol
-(by DabelCODY) ![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png)
+## Shonin Anomaly Symbol ![Darsana](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png)
 
 [SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.png) | [EPS](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/shonin.eps) (by DabelCODY)
 
