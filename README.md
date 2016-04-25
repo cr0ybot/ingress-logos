@@ -31,6 +31,11 @@ Or just grab the logos here:
 
 ![Badges preview](https://raw.githubusercontent.com/ra100/ingress-logos/master/badges/preview.jpg)
 
+## Aegis Nova Anomaly Symbol
+![Obsidian](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/aegis_nova.png)
+
+[SVG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/aegis_nova.svg) | [PNG](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/aegis_nova.png) | [EPS](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/aegis_nova.eps)
+
 ## Obsidian Anomaly Symbol
 ![Obsidian](https://raw.githubusercontent.com/ra100/ingress-logos/master/anomalies/obsidian.png)
 
