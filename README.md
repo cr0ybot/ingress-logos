@@ -1,11 +1,13 @@
 # Ingress Logos
 Unofficial vector images of various logos and symbols from Google's alternate reality game, **Ingress**. Free to use and open source.
 
-**DISCLAIMER:** I am in no way associated with Google Inc or NianticLabs@Google. These logos are copyrighted and possibly trademarked by Google, and are shared here for promotional purposes only; no copyright infringement is intended. Please be advised that attempting to use these images for a profit is illegal, even though they are not produced directly by Google. Also note that I will promptly honor any official request by Google to take these images down.
+**DISCLAIMER:** I am in no way associated with [Niantic, Inc](https://www.nianticlabs.com/). These logos are copyrighted and trademarked by Niantic, and are shared here for promotional purposes only; no copyright infringement is intended. Please be advised that attempting to use these images for a profit is illegal, even though they are not produced directly by Niantic. Also note that I will promptly honor any official request by Niantic to take these images down.
 
-Please see the [official word from Google](https://support.google.com/ingress/answer/2924461) about using these images, reproduced here for your convenience:
+Though I can no longer find official information about the use of these trademarked images, please see these [guidelines from 2013](https://support.google.com/ingress/answer/2924461) (courtesy of archive.org) about using these images, reproduced here for your convenience:
 
-> Please don't sell any merchandise featuring our trademarks, game images, or logos, or modified versions of our trademarks and logos (either directly or through third party websites like CafePress or Zazzle).
+> These can be used on your own site and on other social media sites to promote your site. These logos and images are available for use on non-commercial fan-sites only, and are not to be used in connection with merchandise, other commercial ventures or in a way that could create confusion as to whether your site is official.
+> [...]
+> Please don’t sell any merchandise featuring our trademarks, game images, or logos, or modified versions of our trademarks and logos (either directly or through third party websites like CafePress or Zazzle).
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
